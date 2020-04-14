@@ -1,4 +1,6 @@
-# NCOMMS-19-15825
+# Non-invasive, receptor-specific, millimeter-precision manipulation of brain circuits
+Mehmet Ozdas et al.
+## NCOMMS-19-15825
 
 Code for Nature Communication Publication Codes
 
